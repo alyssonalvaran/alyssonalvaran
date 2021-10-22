@@ -1,4 +1,6 @@
-### Hi there 👋
+# Kumusta? I'm Alysson. :wave:
+
+I work as a software engineer and a training consultant based in Manila, Philippines.
 
 <!--
 **alyssonalvaran/alyssonalvaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
